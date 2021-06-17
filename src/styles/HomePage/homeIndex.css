@@ -1,0 +1,18 @@
+.home-body{
+    margin-top: 1%;
+    font-size: 0.7em;
+    font-weight: 600;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.home-cards-body{
+    display: grid;
+    grid-template-columns: 74% 1% 25%;
+    margin-top: 1.5%;
+}
+
+.cart-details{
+    box-shadow: 4px 2px 8px 2px #ecebeb;
+    margin-bottom: 6%;
+}

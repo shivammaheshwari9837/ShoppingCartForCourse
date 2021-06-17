@@ -1,0 +1,21 @@
+.home-title{
+    height: 20%;
+    background-color: black;
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    color: white;
+    text-align: left;
+    border-radius: 0.4em;
+}
+
+
+.title-content{
+    margin: 5% 0 14% 6%;
+}
+
+.title-image img{
+    height: 99%;
+    width: 44%;
+    float: right;
+    padding-top: 1%;
+}

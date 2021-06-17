@@ -1,0 +1,91 @@
+.card-design{
+    margin-bottom: 2%;
+    box-shadow: 4px 2px 8px 2px #ecebeb;
+    display: grid;
+    grid-template-columns: 10% 30% 20% 5% 7% 7% 16% 3%;
+}
+
+.card-design-v2{
+    margin-bottom: 2%;
+    box-shadow: 4px 2px 8px 2px #ecebeb;
+    display: grid;
+    grid-template-columns: 10% 30% 16% 9% 9% 16% 5% 3%;
+}
+
+.card-design-v3{
+    margin-bottom: 2%;
+    box-shadow: 4px 2px 8px 2px #ecebeb;
+    display: grid;
+    grid-template-columns: 10% 50% 15% 15% 6%;
+}
+
+.details{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    transform: translate(4%, 6%);
+}
+
+.move-to-wishlist{
+    margin: auto;
+    color: #61b4ef;
+}
+
+
+.badges{
+    margin-top: 2%;
+    display: flex;
+    flex-direction: row;
+    /* background-color: #ec6217; */
+}
+
+.badges .badge{
+    padding: 0.6em 1.2em;
+}
+
+
+.empty-box{
+    background-color: rgb(209, 208, 208);
+    height: 55px;
+    margin: 11% 0 13% 17%;
+}
+
+.add-to-cart .btn{
+    transform: translate(0,65%);
+    font-size: 0.9em;
+    background-color: #ec6217;
+    border: none;
+}
+
+.star img{
+    height: 24%;
+    width: 52%;
+    transform: translate(0,133%);
+}
+
+.arrow img{
+    height: 20%;
+    width: 45%;
+}
+
+.arrow{
+    transform: translate(24%, 34%);
+}
+
+.author{
+    transform: translate(0,35%);
+    color: #847f7f
+}
+
+.price{
+    transform: translate(0,35%);
+}
+
+.discount{
+    transform: translate(0,33%);
+}
+
+.cut-off{
+    text-decoration: line-through;
+    color: #847f7f;
+}

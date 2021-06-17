@@ -1,0 +1,14 @@
+.main{
+    display: grid;
+    grid-template-columns: 10% 48% 16% 1% 25%;
+    /* margin: auto; */
+    margin-top: 2%;
+}
+
+.content{
+    margin: auto;
+}
+
+.form-select{
+    font-size: 0.7em;
+}

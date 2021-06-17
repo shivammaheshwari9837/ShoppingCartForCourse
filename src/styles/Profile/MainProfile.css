@@ -1,0 +1,76 @@
+.profile-body{
+    display: grid;
+    grid-template-columns: 18% 82%;
+    margin-top: 3%;
+}
+
+.user-detail{
+    margin-left: 1%;
+    box-shadow: 4px 2px 8px 2px #ecebeb;
+}
+
+.user-image img{
+    height: 9rem;
+}
+
+.all-input-fields{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: left;
+    margin-right: 18%;
+}
+
+.gap{
+    margin-top: 2%;
+}
+
+.small-intro{
+    float: left;
+    text-align: left;
+    width: 100%;
+    margin-top: 2%;
+}
+
+.areas-of-interest{
+    float: left;
+    width: 100%;
+    margin-top: 2%;
+    text-align: left;
+}
+
+.areas-of-interest label{
+    margin-bottom: 1%;
+}
+
+.position-choices{
+    float: left;
+    margin-top: 2%;
+    width: 100%;
+    text-align: left;
+}
+
+
+.input-form{
+    margin-left: 2%;
+}
+
+.field-texture{
+    background-color: #F6F8FF;
+    border: none;
+}
+
+.areas-of-interest .form-check-input{
+    background-color: #F6F8FF;
+    border: none;
+}
+
+.save-button{
+    margin-top: 2%;
+}
+
+.save-button img{
+    width: 12%;
+    margin-bottom: 4%;
+    margin-left: 82%;
+}

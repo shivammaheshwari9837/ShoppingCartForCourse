@@ -1,0 +1,23 @@
+.pro-body{
+    text-align: left;
+    margin-top: 58%;
+    border: 1px solid #E0E0E0;
+    margin-left: -1%;
+    margin-right: 3%;
+}
+
+.pro-gap{
+    margin-top: 3%;
+    margin-left: 1%;
+}
+
+.single-gap{
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+.role-field{
+    margin-bottom: 12%;
+    background-color: #F6F8FF;
+    border: none;
+}

@@ -1,0 +1,87 @@
+[
+    {
+        "uniqueID" : "1",
+        "courseName" : "React Fundentals",
+        "courseSubtitle" : "The best course for Reactjs over the Internet",
+        "author" : "James Cruise",
+        "insideCart" : false,
+        "type" : "React",
+        "price" : "500",
+        "discount" : "700",
+        "courseDetail" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "timeLeftForDiscount" : "8",
+        "insideWishList" : false
+    },
+
+    {
+        "uniqueID" : "2",
+        "courseName" : "React Fundentals",
+        "courseSubtitle" : "The best course for Reactjs over the Internet",
+        "author" : "James Gosling",
+        "insideCart" : false,
+        "type" : "React",
+        "price" : "600",
+        "discount" : "",
+        "courseDetail" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "timeLeftForDiscount" : "8",
+        "insideWishList" : false
+    },
+
+
+    {
+        "uniqueID" : "3",
+        "courseName" : "React Fundentals",
+        "courseSubtitle" : "The best course for Reactjs over the Internet",
+        "author" : "James Gosling",
+        "insideCart" : false,
+        "type" : "React",
+        "price" : "100",
+        "discount" : "120",
+        "courseDetail" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "timeLeftForDiscount" : "8",
+        "insideWishList" : false
+    },
+
+
+    {
+        "uniqueID" : "4",
+        "courseName" : "React Fundentals",
+        "courseSubtitle" : "The best course for Reactjs over the Internet",
+        "author" : "James Gosling",
+        "insideCart" : false,
+        "type" : "React",
+        "price" : "900",
+        "discount" : "",
+        "courseDetail" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "timeLeftForDiscount" : "8",
+        "insideWishList" : false
+    },
+
+    {
+        "uniqueID" : "5",
+        "courseName" : "Angular Fundentals",
+        "courseSubtitle" : "The best course for Reactjs over the Internet",
+        "author" : "Saurbh Garg",
+        "insideCart" : false,
+        "type" : "React",
+        "price" : "600",
+        "discount" : "900",
+        "courseDetail" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "timeLeftForDiscount" : "8",
+        "insideWishList" : false
+    },
+
+    {
+        "uniqueID" : "6",
+        "courseName" : "Java Fundentals",
+        "courseSubtitle" : "The best course for Reactjs over the Internet",
+        "author" : "Saurbh Garg",
+        "insideCart" : false,
+        "type" : "React",
+        "price" : "780",
+        "discount" : "990",
+        "courseDetail" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "timeLeftForDiscount" : "8",
+        "insideWishList" : false
+    }
+]

@@ -1,0 +1,18 @@
+.course-detail{
+    display: grid;
+    grid-template-columns: 30% 58%;
+}
+
+.grey-box{
+    background-color: rgb(209, 208, 208);
+    height: 4.7em;
+    width: 5em;
+}
+
+.course-title{
+    text-align: left;
+}
+
+.course-price{
+    padding-left: 56%;
+}

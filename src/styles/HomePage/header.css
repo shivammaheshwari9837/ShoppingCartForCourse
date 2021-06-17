@@ -1,0 +1,43 @@
+.main-header{
+    display: grid;
+    grid-template-columns: 10% 60% 7% 12% 4% 4%;
+    background-color: rgb(241, 240, 240);
+    height: 40px;
+}
+
+.is-active{
+    color: green;
+}
+
+.hashedin-icon img{
+    height: 80%;
+    padding-top: 4px;
+    width: 70%;
+}
+
+.courses-icon{
+    /* margin: auto; */
+    font-size: 0.7em;
+    margin-top: 11%;
+}
+
+.wishlist-icon{
+    /* margin: auto; */
+    font-size: 0.7em;
+    margin-top: 6%;
+}
+
+.cart-icon{
+    /* margin: auto; */
+    font-size: 0.7em;
+    margin-top: 20%;
+}
+
+.profile-icon{
+    /* margin: auto; */
+    font-size: 0.7em;
+    margin-top: 20%;
+}
+
+
+/* Home-Title-CSS */

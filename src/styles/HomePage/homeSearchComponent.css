@@ -1,0 +1,18 @@
+.search-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+.search-bar .btn{
+    border-radius: 0;
+}
+
+.form-control{
+    font-size: 0.7em;
+    border-radius: 0;
+}
+
+/* .change-icon-color{
+    color: #ec6217;
+} */

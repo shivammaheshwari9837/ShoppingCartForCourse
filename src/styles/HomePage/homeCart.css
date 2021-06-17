@@ -1,0 +1,43 @@
+.home-cart-design{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.details-header{
+    margin-top: 7%;
+    font-size: 1.3em;
+}
+
+.cart-courses{
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: 26em;
+}
+
+.cart-checkout{
+    margin-top: 9%;
+    font-size: 1.1em;
+    color: #ec6217;
+}
+
+.header{
+    margin-top: 1%;
+}
+
+.total-price{
+    display: grid;
+    grid-template-columns: 44% 64%;
+}
+
+.total-cart-price{
+    display: flex;
+    flex-direction: column;
+}
+
+.lower-end{
+    margin-top: 15%;
+}
+
+.actual-price{
+    font-size: 1.6em;
+}

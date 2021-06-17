@@ -1,0 +1,30 @@
+.final-checkout-box{
+    height: 9rem;
+    margin-top: 9%;
+    text-align: left;
+    margin-left: 7%;
+}
+
+.final-button{
+    /* width: 93%; */
+    width: 93%;
+    margin-top: 4%;
+}
+
+.final-checkout-button .btn{
+    background: #ec6217;
+    border: none;
+}
+
+
+
+.total-amount-section{
+    margin-top: 4%;
+    font-size: 1.4em;
+}
+
+.saved-amount{
+    font-size: 0.7rem;
+    color: #0cbf0c;
+}
+
